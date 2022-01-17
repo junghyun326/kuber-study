@@ -4,7 +4,7 @@
 |Chapter|Date|Presentor|Link|
 |-------|----|---------|----|
 |1. Introducing Kubernetes| Jan 11st, 2022 | jinee ||
-|2. First steps with Docker and Kubernetes| Jan 11st, 2022 | @junghyun326 ||
+|2. First steps with Docker and Kubernetes| Jan 11st, 2022 | @junghyun326 |https://velog.io/@junghyun326/k8s-study-Chapter2.-First-steps-with-Docker-and-Kubernetes|
 |3. Pods: running containers in K8S |Jan 11st, 2022 | @jean1042 ||
 |4.  |Jan 18th, 2022 | @ ||
 |5.  |Jan 18th, 2022 | @ ||

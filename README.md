@@ -13,7 +13,7 @@
 |8. Accessing pod metadata and other resources from applications |Jan 26th, 2022 | @jean1042 ||
 |9. Deployments: updating applications declaratively |Jan 26th, 2022 | jinee ||
 |10. StatefulSets: deploying replicated stateful applications |Feb 8th, 2022 | @ ||
-|11. Understanding Kubernetees internals |Feb 8th, 2022 | @ ||
+|11. Understanding Kubernetes internals |Feb 8th, 2022 | @ ||
 |12. Securing the Kubernetes API server |Feb 8th, 2022 | @ ||
 |13. Securing cluster nodes and the network |Feb 15th, 2022 | @ ||
 |14. Managing pods' computational resources |Feb 15th, 2022 | @ ||

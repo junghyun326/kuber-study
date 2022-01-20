@@ -8,7 +8,7 @@
 | 2. First steps with Docker and Kubernetes                  | Jan 11st, 2022 | @junghyun326 | https://velog.io/@junghyun326/k8s-study-Chapter2.-First-steps-with-Docker-and-Kubernetes      |
 | 3. Pods: running containers in K8S                         | Jan 11st, 2022 | @jean1042    |                                                                                               |
 | 4.                                                         | Jan 18th, 2022 | @            |                                                                                               |
-| 5. Services: enabling clients to discover and talk to pods | Jan 18th, 2022 | @gineepark   | https://www.notion.so/5-f9cc932e55264010b15132fd588da708                                      |
+| 5. Services: enabling clients to discover and talk to pods | Jan 18th, 2022 | @gineepark   | https://gineepark.notion.site/5-f9cc932e55264010b15132fd588da708                              |
 | 6.                                                         | Jan 18th, 2022 | @            | https://velog.io/@junghyun326/kuber-study-Chapter6.-Volumes                                   |
 | 7.                                                         | Jan 7th, 2022  | @            |                                                                                               |
 | 8.                                                         | Jan 7th, 2022  | @            |                                                                                               |

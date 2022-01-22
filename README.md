@@ -5,8 +5,8 @@
 |-------|----|---------|----|
 |1. Introducing Kubernetes| Jan 11st, 2022 | jinee |https://velog.io/@ginee_park/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B0%9C%EC%9A%94|
 |2. First steps with Docker and Kubernetes| Jan 11st, 2022 | @junghyun326 |https://velog.io/@junghyun326/k8s-study-Chapter2.-First-steps-with-Docker-and-Kubernetes|
-|3. Pods: running containers in K8S |Jan 11st, 2022 | @jean1042 ||
-|4. Replication and other controllers: deploying managed pods |Jan 18th, 2022 | @jean1042 ||
+|3. Pods: running containers in K8S |Jan 11st, 2022 | @jean1042 |https://velog.io/@jean1042/Pods-K8S에서-구동되는-컨테이너들|
+|4. Replication and other controllers: deploying managed pods |Jan 18th, 2022 | @jean1042 |https://velog.io/@jean1042/Replication-Controllers-Pod를-항상-실행하도록-보장하기|
 |5. Services: enabling clients to discover and talk to pods |Jan 18th, 2022 | jinee ||
 |6. Volumes: attaching disk storage to containers |Jan 18th, 2022 | @junghyun326 |https://velog.io/@junghyun326/kuber-study-Chapter6.-Volumes|
 |7. ConfigMaps and Secrets: configuring applications |Jan 26th, 2022 | @junghyun326 ||
@@ -21,4 +21,3 @@
 |16. Advanced scheduling |Feb , 2022 | @ ||
 |17. Best practices for developing apps |Feb , 2022 | @ ||
 |18. Extending Kubernetes |Feb , 2022 | @ ||
-

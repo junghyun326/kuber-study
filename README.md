@@ -10,12 +10,12 @@
 | 4. Replication and other controllers: deploying managed pods    | Jan 18th, 2022 | @jean1042    | https://velog.io/@jean1042/Replication-Controllers-Pod를-항상-실행하도록-보장하기             |
 | 5. Services: enabling clients to discover and talk to pods      | Jan 18th, 2022 | @gineepark   | https://gineepark.notion.site/5-f9cc932e55264010b15132fd588da708                              |
 | 6. Volumes: attaching disk storage to containers                | Jan 18th, 2022 | @junghyun326 | https://velog.io/@junghyun326/kuber-study-Chapter6.-Volumes                                   |
-| 7. ConfigMaps and Secrets: configuring applications             | Jan 26th, 2022 | @junghyun326 |                                                                                               |
+| 7. ConfigMaps and Secrets: configuring applications             | Jan 26th, 2022 | @junghyun326 | https://velog.io/@junghyun326/kuber-study-Chapter7.-ConfigMaps-and-Secrets-2                 |
 | 8. Accessing pod metadata and other resources from applications | Jan 26th, 2022 | @jean1042    | https://velog.io/@jean1042/pplication에서-pod의-metadata에-접근하기                           |
 | 9. Deployments: updating applications declaratively             | Jan 26th, 2022 | @gineepark   | https://gineepark.notion.site/9-e7757c656b944bb68b9c4321dfbd955a                              |
-| 10. StatefulSets: deploying replicated stateful applications    | Feb 8th, 2022  | @            |                                                                                               |
+| 10. StatefulSets: deploying replicated stateful applications    | Feb 8th, 2022  | @junghyun326 |                                                                                               |
 | 11. Understanding Kubernetes internals                          | Feb 8th, 2022  | @gineepark   |                                                                                               |
-| 12. Securing the Kubernetes API server                          | Feb 8th, 2022  | @            |                                                                                               |
+| 12. Securing the Kubernetes API server                          | Feb 8th, 2022  | @jean1042    |                                                                                               |
 | 13. Securing cluster nodes and the network                      | Feb 15th, 2022 | @            |                                                                                               |
 | 14. Managing pods' computational resources                      | Feb 15th, 2022 | @            |                                                                                               |
 | 15. Automatic scaling of pods and cluster nodes                 | Feb 15th, 2022 | @            |                                                                                               |

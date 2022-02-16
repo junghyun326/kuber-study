@@ -18,7 +18,7 @@
 | 12. Securing the Kubernetes API server                          | Feb 8th, 2022  | @jean1042    | https://velog.io/@jean1042/Kubernetes-API-Server-보안-Securing-API-Server                     |
 | 13. Securing cluster nodes and the network                      | Feb 15th, 2022 | @junghyun326            |                                                                                               |
 | 14. Managing pods' computational resources                      | Feb 15th, 2022 | @gineepark            |                                                                                               |
-| 15. Automatic scaling of pods and cluster nodes                 | Feb 15th, 2022 | @jean1042            |                                                                                               |
+| 15. Automatic scaling of pods and cluster nodes                 | Feb 15th, 2022 | @jean1042            | 
 | 16. Advanced scheduling                                         | Feb , 2022     | @            |                                                                                               |
 | 17. Best practices for developing apps                          | Feb , 2022     | @            |                                                                                               |
 | 18. Extending Kubernetes                                        | Feb , 2022     | @            |                                                                                               |
